@@ -1,10 +1,6 @@
-def normalize_data():
+def preprocess_data():
     print("Normalizing dataset...")
 
 def train():
-    normalize_data()
+    preprocess_data()
     print("Training baseline model...")
-
-if __name__ == "__main__":
-    train()
-

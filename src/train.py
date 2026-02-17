@@ -3,3 +3,5 @@ def train():
 
 if __name__ == "__main__":
     train()
+
+LEARNING_RATE = 0.01
